@@ -12,6 +12,7 @@ I utilized Spring to develop a Java-based RESTful API implementation for constru
 - Define the **API contracts** that will enable this application scenario
 - Leverage the convenience of **Lombok**  
  ----   
- -Use **cURL** to test your API scenarios
+- Use **cURL** to test your API scenarios
+ ----
 
 The project includes a few new techniques I researched on my own:
